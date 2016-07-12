@@ -174,6 +174,8 @@ good_movies <- movie_selection[movie_selection$Rating >= 5, ]
 plot(good_movies$Run, good_movies$Rating, col = good_movies$Genre)
 ```
 
+*** =skills
+,,,..d.s.fds,,,
 *** =sct
 ```{r}
 # SCT written with testwhat: https://github.com/datacamp/testwhat/wiki
