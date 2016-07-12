@@ -195,6 +195,3 @@ test_error()
 success_msg("Good work!")
 ```
 
-*** =skills
-,,,..d.s.fds,,,
-
